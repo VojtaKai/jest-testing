@@ -11,7 +11,8 @@
     "test-scheduler-A": "jest -- scheduler-A.test.js",
     "test-scheduler-B": "jest -- scheduler-B.test.js",
     "test-scheduler-2": "jest -- scheduler-2.test.js",
-    "test-scheduler-3": "jest -- scheduler-3.test.js",
+    "test-predictor-A": "jest -- predictor-A.test.js",
+    "test-predictor-B": "jest -- predictor-B.test.js",
     "test-open-handles": "jest --detectOpenHandles"
   },
   "keywords": [],
