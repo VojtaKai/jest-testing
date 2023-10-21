@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "test-code": "jest -- code.test.js"
+    "test-code": "jest -- code.test.js",
+    "test-calls": "jest -- calls.test.js"
   },
   "keywords": [],
   "author": "",
