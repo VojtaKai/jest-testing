@@ -7,7 +7,12 @@
     "test": "jest",
     "test-code": "jest -- code.test.js",
     "test-calls": "jest -- calls.test.js",
-    "test-t": "jest -- t.test.js"
+    "test-t": "jest -- t.test.js",
+    "test-scheduler-A": "jest -- scheduler-A.test.js",
+    "test-scheduler-B": "jest -- scheduler-B.test.js",
+    "test-scheduler-2": "jest -- scheduler-2.test.js",
+    "test-scheduler-3": "jest -- scheduler-3.test.js",
+    "test-open-handles": "jest --detectOpenHandles"
   },
   "keywords": [],
   "author": "",
