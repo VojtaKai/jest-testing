@@ -1,0 +1,20 @@
+{
+  "name": "jest-testing",
+  "version": "1.0.0",
+  "description": "Testing with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-code": "jest -- code.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "jest": "^29.7.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.5"
+  }
+}
