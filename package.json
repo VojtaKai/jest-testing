@@ -6,7 +6,8 @@
   "scripts": {
     "test": "jest",
     "test-code": "jest -- code.test.js",
-    "test-calls": "jest -- calls.test.js"
+    "test-calls": "jest -- calls.test.js",
+    "test-t": "jest -- t.test.js"
   },
   "keywords": [],
   "author": "",
